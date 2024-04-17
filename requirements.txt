@@ -1,0 +1,5 @@
+beautifulsoup4==4.12.2
+ebooklib==0.17
+elasticsearch==8.8.0
+justext==3.0.0
+tqdm
